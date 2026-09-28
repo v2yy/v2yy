@@ -1,0 +1,32 @@
+name: update-profile-readme
+
+on:
+  schedule:
+    # UTC 01:15 & 09:15 = Beijing 09:15 & 17:15
+    - cron: '15 1,9 * * *'
+  push:
+    branches: ['**']
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python main.py
+      - name: Commit README if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "docs: auto-update profile README"
+            git push
+          else
+            echo "README unchanged"
+          fi
