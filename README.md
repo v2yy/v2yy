@@ -5,10 +5,10 @@
 - 🔭 我在维护一个基于 [Firefly (Astro)](https://github.com/CuteLeaf/Firefly) 的个人博客，托管在 Cloudflare Pages
 - 🌱 日常折腾：AI Agent 自动化、自托管服务、硬件小工具
 - ⚡ 下方「自动生成区」由 GitHub Actions 每天 09:15 / 17:15（北京时间）定时抓取更新，实现见本仓库 `main.py`
-- 💬 想聊聊：开个 [Issue](https://github.com/yangyang1187/yangyang1187/issues)，或者到博客留言区找我
+- 💬 想聊聊：开个 [Issue](https://github.com/v2yy/v2yy/issues)，或者到博客留言区找我
 
-![github stats](https://readme-stats-fast.vercel.app/api?username=yangyang1187&show_icons=true&theme=onedark&hide_rank=true)
-![top langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=yangyang1187&layout=compact&theme=onedark)
+![github stats](https://readme-stats-fast.vercel.app/api?username=v2yy&show_icons=true&theme=onedark&hide_rank=true)
+![top langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=v2yy&layout=compact&theme=onedark)
 
 ---start---
 
@@ -23,6 +23,6 @@
 
 ### 🔧 开源项目精选
 
-- **[hardware-monitor](https://github.com/yangyang1187/hardware-monitor)** ⭐0 · Windows hardware monitoring tool with CPU/GPU temperature, usage, Core Temp Shared Memory support, structured dashboard and sensor details.
+- **[hardware-monitor](https://github.com/v2yy/hardware-monitor)** ⭐0 · Windows hardware monitoring tool with CPU/GPU temperature, usage, Core Temp Shared Memory support, structured dashboard and sensor details.
 
 ---end---

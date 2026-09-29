@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-USER = "yangyang1187"
+USER = "v2yy"
 BLOG_RSS = "https://v2yy.com/rss.xml"
 UA = {"User-Agent": "profile-readme-bot", "Accept": "application/vnd.github+json"}
 
