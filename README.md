@@ -14,12 +14,13 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-09-28 19:21:03（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-09-29 09:02:30（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
 - [Hermes Agent 踩坑实录：从安装到多端消息、服务器与 Cloudflare 全记录](https://v2yy.com/posts/hermes-pitfalls/)
 - [Hello World！本站开张啦](https://v2yy.com/posts/hello-world/)
+- [GitHub 热门 AI 项目 · 2026-09-29](https://v2yy.com/posts/trending-ai-2026-09-29/)
 
 ### 🔧 开源项目精选
 
