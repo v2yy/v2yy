@@ -14,11 +14,18 @@ from zoneinfo import ZoneInfo
 
 USER = "v2yy"
 BLOG_RSS = "https://v2yy.com/rss.xml"
-UA = {"User-Agent": "profile-readme-bot", "Accept": "application/vnd.github+json"}
+UA = "profile-readme-bot"
 
 
 def http_get(url: str, timeout: int = 30) -> bytes:
-    req = urllib.request.Request(url, headers=UA)
+    # Halo 404s on an unrecognized vendor Accept header, so only the GitHub
+    # API call gets the vnd.github+json one; everything else asks for anything.
+    accept = (
+        "application/vnd.github+json"
+        if url.startswith("https://api.github.com/")
+        else "application/rss+xml, application/xml, */*"
+    )
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": accept})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
 
