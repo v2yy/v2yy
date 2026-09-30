@@ -2,7 +2,7 @@
 
 > 慢慢来，比较快 —— 个人博客 🏠 [v2yy.com](https://v2yy.com)
 
-- 🔭 我在维护一个基于 [Firefly (Astro)](https://github.com/CuteLeaf/Firefly) 的个人博客，托管在 Cloudflare Pages
+- 🔭 我在运营个人博客「一言即诺」，基于 [Halo](https://github.com/halo-dev/halo) 2 + MySQL，自建在自己的 VPS 上（前置 Cloudflare）
 - 🌱 日常折腾：AI Agent 自动化、自托管服务、硬件小工具
 - ⚡ 下方「自动生成区」由 GitHub Actions 每天 09:15 / 17:15（北京时间）定时抓取更新，实现见本仓库 `main.py`
 - 💬 想聊聊：开个 [Issue](https://github.com/v2yy/v2yy/issues)，或者到博客留言区找我
