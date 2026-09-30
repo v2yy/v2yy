@@ -7,8 +7,8 @@
 - ⚡ 下方「自动生成区」由 GitHub Actions 每天 09:15 / 17:15（北京时间）定时抓取更新，实现见本仓库 `main.py`
 - 💬 想聊聊：开个 [Issue](https://github.com/v2yy/v2yy/issues)，或者到博客留言区找我
 
-![github stats](https://readme-stats-fast.vercel.app/api?username=v2yy&show_icons=true&theme=onedark&hide_rank=true)
-![top langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=v2yy&layout=compact&theme=onedark)
+![github stats](https://stats.v2yy.com?username=v2yy&show_icons=true&theme=onedark&hide_rank=true)
+![top langs](https://stats.v2yy.com/top-langs?username=v2yy&layout=compact&theme=onedark)
 
 ---start---
 
