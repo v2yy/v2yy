@@ -14,13 +14,13 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-10-02 23:51:27（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-10-03 14:35:41（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
+- [GitHub 热门 AI 项目 · 2026-10-02](https://v2yy.com/archives/trending-ai-2026-10-02)
 - [堡垒机 JumpServer v4 迁移实战：五个连环坑](https://v2yy.com/archives/jumpserver-v4-migration-pitfalls)
 - [macOS 多 Node 共存：交互 shell 与脚本环境解析不同才是病灶](https://v2yy.com/archives/mac-node-env-split)
-- [自建图床（Lsky）API 与 CDN 三个坑](https://v2yy.com/archives/self-host-image-hosting-gotchas)
 
 ### 🔧 开源项目精选
 
