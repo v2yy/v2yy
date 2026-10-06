@@ -14,16 +14,17 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-10-06 15:36:42（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-10-06 23:59:05（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
+- [GitHub 热门 AI 项目 · 2026-10-06](https://v2yy.com/archives/2026-10-06)
 - [GitHub 热门 AI 项目 · 2026-10-05](https://v2yy.com/archives/trending-ai-2026-10-05)
 - [GitHub 热门 AI 项目 · 2026-10-04](https://v2yy.com/archives/trending-ai-2026-10-04)
-- [GitHub 热门 AI 项目 · 2026-10-02](https://v2yy.com/archives/trending-ai-2026-10-02)
 
 ### 🔧 开源项目精选
 
-- （GitHub API 暂时不可用）
+- **[plugin-psn](https://github.com/v2yy/plugin-psn)** ⭐0
+- **[hardware-monitor](https://github.com/v2yy/hardware-monitor)** ⭐0 · Windows hardware monitoring tool with CPU/GPU temperature, usage, Core Temp Shared Memory support, structured dashboard and sensor details.
 
 ---end---
