@@ -14,13 +14,13 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-10-09 00:32:39（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-10-09 15:26:58（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
+- [GitHub 热门 AI 项目 · 2026-10-09](https://v2yy.com/archives/2026-10-09)
 - [一个死活说不出口的 DONE](https://v2yy.com/archives/system1-decision-models)
 - [GitHub 热门 AI 项目 · 2026-10-08](https://v2yy.com/archives/2026-10-08)
-- [GitHub 热门 AI 项目 · 2026-10-07](https://v2yy.com/archives/2026-10-07)
 
 ### 🔧 开源项目精选
 
