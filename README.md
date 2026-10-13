@@ -14,7 +14,7 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-10-13 15:46:29（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-10-14 00:58:41（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
@@ -24,6 +24,7 @@
 
 ### 🔧 开源项目精选
 
-- （GitHub API 暂时不可用）
+- **[plugin-psn](https://github.com/v2yy/plugin-psn)** ⭐0
+- **[hardware-monitor](https://github.com/v2yy/hardware-monitor)** ⭐0 · Windows hardware monitoring tool with CPU/GPU temperature, usage, Core Temp Shared Memory support, structured dashboard and sensor details.
 
 ---end---
