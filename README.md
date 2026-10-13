@@ -14,17 +14,16 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-10-13 03:05:57（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-10-13 15:46:29（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
+- [GitHub 热门 AI 项目 · 2026-10-13](https://v2yy.com/archives/2026-10-13)
 - [GitHub 热门 AI 项目 · 2026-10-12](https://v2yy.com/archives/2026-10-12)
 - [GitHub 热门 AI 项目 · 2026-10-09](https://v2yy.com/archives/2026-10-09)
-- [一个死活说不出口的 DONE](https://v2yy.com/archives/system1-decision-models)
 
 ### 🔧 开源项目精选
 
-- **[plugin-psn](https://github.com/v2yy/plugin-psn)** ⭐0
-- **[hardware-monitor](https://github.com/v2yy/hardware-monitor)** ⭐0 · Windows hardware monitoring tool with CPU/GPU temperature, usage, Core Temp Shared Memory support, structured dashboard and sensor details.
+- （GitHub API 暂时不可用）
 
 ---end---
