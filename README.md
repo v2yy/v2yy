@@ -14,13 +14,13 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-10-30 00:12:03（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-10-30 15:12:08（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
+- [GitHub 热门 AI 项目 · 2026-10-30](https://v2yy.com/archives/2026-10-30)
 - [GitHub 热门 AI 项目 · 2026-10-29](https://v2yy.com/archives/2026-10-29)
 - [GitHub 热门 AI 项目 · 2026-10-28](https://v2yy.com/archives/2026-10-28)
-- [GitHub 热门 AI 项目 · 2026-10-27](https://v2yy.com/archives/2026-10-27)
 
 ### 🔧 开源项目精选
 
