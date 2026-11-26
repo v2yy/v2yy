@@ -14,13 +14,13 @@
 
 ## 📌 自动生成区
 
-> 更新时间：2026-11-25 17:53:07（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
+> 更新时间：2026-11-26 17:35:40（北京时间）· 由 GitHub Actions 每天 09:15 / 17:15 自动抓取，无需人工维护
 
 ### 📰 博客最新（[v2yy.com](https://v2yy.com)）
 
+- [GitHub 热门项目｜2026 年 11 月 25 日](https://v2yy.com/archives/2026-11-25)
 - [AirLLM 的低显存推理，拆层加载换来了什么](https://v2yy.com/archives/airllm-low-vram-inference)
 - [GitHub 热门 AI 项目 · 2026-11-19](https://v2yy.com/archives/2026-11-19)
-- [GitHub 热门 AI 项目 · 2026-11-18](https://v2yy.com/archives/2026-11-18)
 
 ### 🔧 开源项目精选
 
